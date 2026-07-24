@@ -1,8 +1,7 @@
 ### About
 Independent brand designer and web developer with experience in branding, public communication, digital products, and front-end development using HTML, CSS, JavaScript, and Node.js. I’m especially interested in clear systems, accessible interfaces, creative coding, and translating complex information into useful digital experiences. Outside work, I swim, run, cycle, read, and explore how design and technology can make public communication work better.
 
-Tech Stack
-
+### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
   <img src="https://img.shields.io/badge/CSS3-111827?style=for-the-badge&logo=css&logoColor=white" alt="CSS3">
