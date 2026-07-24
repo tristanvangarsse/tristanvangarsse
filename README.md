@@ -1,5 +1,5 @@
 ### About
-Independent brand designer and web developer with experience in branding, public communication, digital products, and front-end development using HTML, CSS, JavaScript, and Node.js. I’m especially interested in clear systems, accessible interfaces, creative coding, and translating complex information into useful digital experiences. Outside work, I swim, run, cycle, read, and explore how design and technology can make public communication work better.
+Independent brand designer and coder with experience in public communication, digital products, and front-end development using JavaScript, and Node.js. I’m especially interested in clear systems, accessible interfaces, creative coding, and translating complex information into useful digital experiences. Outside work, I swim, run, cycle, read, and explore how design and technology can make public communication work better.
 
 ### Tech Stack
 <p>
