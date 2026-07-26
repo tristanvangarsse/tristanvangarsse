@@ -8,10 +8,3 @@ Independent brand designer and coder with experience in public communication, di
   <img src="https://img.shields.io/badge/JavaScript-111827?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript">
   <img src="https://img.shields.io/badge/Node.js-111827?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   <img src="https://img.shields.io/badge/Git-111827?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-
-### Interests
-![Web Dev](https://img.shields.io/badge/Web%20Dev-1f2937?style=for-the-badge)
-![UX Design](https://img.shields.io/badge/UX%20Design-374151?style=for-the-badge)
-![Creative Coding](https://img.shields.io/badge/Creative%20Coding-4b5563?style=for-the-badge)
-![Brand Systems](https://img.shields.io/badge/Brand%20Systems-6b7280?style=for-the-badge)
-![Digital Art](https://img.shields.io/badge/Digital%20Art-7c3aed?style=for-the-badge)
