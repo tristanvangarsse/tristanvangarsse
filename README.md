@@ -4,6 +4,9 @@ Webplatform coördinator and independent brand designer and coder with experienc
 ### Portfolio
 [tristanvangarsse.com](https://www.tristanvangarsse.com)
 
+### Art
+[sanguine.vangarsse.com](https://www.sanguine.vangarsse.com)
+
 ### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
