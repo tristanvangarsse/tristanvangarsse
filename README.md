@@ -7,12 +7,6 @@ Webplatform coördinator and independent brand designer and coder with experienc
 ### Art
 [sanguine.vangarsse.com](https://sanguine.vangarsse.com)
 
-### Support
-
-If you find my open-source work useful, you can support it by buying me a coffee.
-
-☕ [Buy me a $5 coffee](https://buymeacoffee.com/tristanvangarsse)
-
 ### Tech Stack
 <p>
   <img src="https://img.shields.io/badge/HTML5-111827?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
