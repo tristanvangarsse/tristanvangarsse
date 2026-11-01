@@ -4,8 +4,23 @@ Webplatform coördinator and independent brand designer and coder with experienc
 ### Portfolio
 [tristanvangarsse.com](https://tristanvangarsse.com/?utm_source=github&utm_medium=referral&utm_content=profile)
 
-### Art
-[sanguine.vangarsse.com](https://sanguine.vangarsse.com)
+---
+
+### Veronica for Mac
+
+A native, open-source macOS app for safely organizing and maintaining media libraries.
+
+<p align="left">
+  <a href="https://github.com/tristanvangarsse/veronica-mac-app">
+    <img src="https://github.com/tristanvangarsse/veronica-mac-app/raw/main/docs/assets/veronica-icon.jpg" alt="Veronica for Mac — media library maintenance app" width="150">
+  </a>
+</p>
+
+**[Explore Veronica on GitHub](https://github.com/tristanvangarsse/veronica-mac-app)** · **[Download the beta](https://github.com/tristanvangarsse/veronica-mac-app/releases)**
+
+⭐ Stars are appreciated!
+
+---
 
 ### Tech Stack
 <p>
